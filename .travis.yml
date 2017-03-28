@@ -35,7 +35,7 @@ matrix:
   include:
     - language: csharp
       mono: latest
-      env: SNIPPET_LANGUAGE=csharp:node
+      env: SNIPPET_LANGUAGE=csharp
 
 addons:
   hosts:
